@@ -2,6 +2,8 @@
 
 A version of [snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) for [OpenAI Gym](https://github.com/openai/gym).
 
+![snake gif](https://github.com/sagelywizard/gym_snake/raw/master/snake.gif)
+
 ## Installation
 
 ```
